@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Hat
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Pet\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Hat()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Pet\r\n
+comment2.params=nm\ on\ ht
+comment2.target=Hat(java.lang.String,\ boolean,\ int)
+comment3.params=
+comment3.target=int\ getHeight()
+comment4.params=on
+comment4.target=void\ setOn(boolean)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6
