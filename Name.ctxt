@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Name
+comment1.params=first\ middle\ last
+comment1.target=Name(java.lang.String,\ java.lang.String,\ java.lang.String)
+numComments=2
