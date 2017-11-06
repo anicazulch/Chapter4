@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Author
+comment1.params=nm\ yr
+comment1.target=Author(java.lang.String,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Author\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3
