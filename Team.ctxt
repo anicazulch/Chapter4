@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Team
+comment1.params=size\ name
+comment1.target=Team(int,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=a\ index
+comment3.target=void\ addAthlete(Athlete,\ int)
+numComments=4
